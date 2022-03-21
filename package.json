@@ -1,0 +1,18 @@
+{
+  "name": "qivoting",
+  "version": "1.0.0",
+  "description": "to take a look at bribes and voting behaviour",
+  "main": "qidao_snapshot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.0.0",
+    "node-fetch": "^3.2.3",
+    "objects-to-csv": "^1.3.6",
+    "prompt": "^1.2.2"
+  }
+}
